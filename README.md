@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Poulami33
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning CSE 
+- 👋 Hi, I’m Poulami Karmakar
+- 👀 CSE Graduate from VIT, Chennai
+- 🌱 Am currently a software engineer at Bank of America
 
 
 
